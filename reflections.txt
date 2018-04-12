@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  While this course has been a nice review of basic html syntax, I have learned a few things. For example, I learned a few new tags: the <figcaption>, <sup>, and <s> tags. My goto would have been to reach for css.
+
+  * What has been easy?
+  I am trying to be humble, but it has all been easy. I am sure it will ramp up and I am up for the challenges to come. This will also be a good opportunity for me to practice my mentoring skills, either in Slack or at local meetups.
+
+  * What has been difficult?
+  The hardest part so far has been holding back using techniques that are outside the scope of what is currently being taught. It is a good excercise in managing constraints, which is a valuable skill to have in the real world.
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  One strategy I employed is the notion that when you think something is tested (or in this case, proofread against the mockup) enough, do it one more time. I almost missed where I had to put the first <sup> tag in the prose. This also applies to reading search results, in my haste, I almost used the obsolete tag, <strike>, instead of <s>.
